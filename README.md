@@ -1,5 +1,5 @@
 • My portfolio website !!!
 <br> 
 <p>
-Skills: JavaScript, CSS, HTML
+Skills: CSS, HTML, JavaScript 
 </p> 
